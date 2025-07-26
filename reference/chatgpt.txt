@@ -1,0 +1,2 @@
+i have azure blob storage and i want my blob storage to have all the record from the past 3 months stored here from cosmos db and delete the resources from cosmos db 
+i want to create another function inside it with a if else statement if the user is searching the record 3 months old he should directly search into blob storage or if its a new data which is not 3 months old then it should directly search it in cosmos db.
