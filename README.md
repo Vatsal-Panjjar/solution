@@ -12,10 +12,10 @@ This project contains an main file and Azure Function App written in Python that
    - If the timestamp is older than 3 months: searches the document in **Blob Storage**.
    - Else: searches in **Cosmos DB**.
 
-**Reference**
-   -Install Terraform and Azure CLI.
-   -Initialize Terraform: syntax: terraform init
-   -Apply the Configuration: terraform apply
+**Main.tf**
+   - Install Terraform and Azure CLI.
+   - Initialize Terraform: syntax: terraform init
+   - Apply the Configuration: terraform apply
 
 
 **Reference**
